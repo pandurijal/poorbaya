@@ -1,0 +1,5 @@
+{
+  "name": "poorbaya",
+  "description": "A web3 ledger for budgets, approvals, and accountability. Designed for infrastructure teams requiring auditability without the speculation.",
+  "requestFramePermissions": []
+}
