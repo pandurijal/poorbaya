@@ -6,7 +6,7 @@ export const Hero: React.FC = () => {
     <div className="min-h-[80vh] flex flex-col justify-center px-6 md:px-12 max-w-5xl mx-auto py-20">
       <div className="mb-10">
         <MonoText className="block mb-6 text-xs tracking-widest uppercase text-stone-500">
-          Established 2024
+          Established 2025
         </MonoText>
         
         <h1 className="font-serif text-7xl md:text-9xl font-bold tracking-tighter text-ink mb-8 -ml-1 md:-ml-2 leading-none uppercase">
